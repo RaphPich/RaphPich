@@ -1,4 +1,4 @@
-Hi, I'm Raphaël Pichon, intern in software engineering at Qualcomm, highly interested in software development. 
+Hi, I'm Raphaël Pichon, SWE 
 
 I'm fluent with :
   - C/C++
